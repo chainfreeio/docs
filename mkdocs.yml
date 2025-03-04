@@ -1,0 +1,59 @@
+site_name: ChainFree Documentation
+site_url: https://docs.chainfree.io
+repo_url: https://github.com/chainfreeio/docs
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: pink
+  logo: assets/images/logo.png
+  favicon: assets/images/favicon.ico
+  features:
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.inlinehilite
+  - pymdownx.details
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Getting Started:
+    - Welcome: getting-started/welcome.md
+    - Plans & Limits: getting-started/plans-limits.md
+    - Monitoring: getting-started/monitoring.md
+  - Guides:
+    - API Tokens: guides/api-tokens.md
+    - API Usage:
+      - Overview: guides/api-usage/overview.md
+      - cURL Examples: guides/api-usage/curl.md
+      - Python Examples: guides/api-usage/python.md
+      - JavaScript Examples: guides/api-usage/javascript.md
+      - Go Examples: guides/api-usage/go.md
+  - API Reference:
+    - Overview: api-reference/overview.md
+    - Protocols: api-reference/protocols.md
+    - Ethereum: api-reference/ethereum.md
+    - Solana: api-reference/solana.md
+    # ...other chains
+  - Best Practices:
+    - Rate Limiting: best-practices/rate-limiting.md
+    - Caching: best-practices/caching.md
+    - Security: best-practices/security.md
+  - Troubleshooting:
+    - Common Errors: troubleshooting/common-errors.md
+    - Support: troubleshooting/support.md
