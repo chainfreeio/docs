@@ -48,7 +48,7 @@ This repository contains comprehensive documentation for ChainFree's API service
 
 ## Using This Documentation
 
-The documentation is organized by topic. If you're new to ChainFree, we recommend starting with the [Welcome](getting-started/welcome.md) page and then exploring the [API Reference](api-reference/overview.md).
+The documentation is organized by topic. If you're new to ChainFree, we recommend starting with the [Welcome](docs/getting-started/welcome.md) page and then exploring the [API Reference](docs/api-reference/overview.md).
 
 ## Contributing
 
