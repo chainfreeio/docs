@@ -49,7 +49,7 @@
 
 .md-nav--secondary .md-nav__title,
 .md-nav--secondary .md-nav__link {
-  font-size: 0.8rem;
+  font-size: 0.6rem;
   line-height: 1.4;
 }
 
@@ -59,13 +59,13 @@
 }
 
 .md-nav--secondary .md-nav__list .md-nav__list {
-  margin-left: 0.8rem;
-  padding-left: 0.4rem;
+  margin-left: 0.6rem;
+  padding-left: 0.3rem;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .md-nav--secondary .md-nav__title {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   font-weight: 600;
   color: rgba(255, 255, 255, 0.7);
   padding-bottom: 0.5rem;
