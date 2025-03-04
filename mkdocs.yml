@@ -3,7 +3,7 @@ site_url: https://docs.chainfree.io
 repo_url: https://github.com/chainfreeio/docs
 theme:
   name: material
-  custom_dir: overrides
+#  custom_dir: overrides
   palette:
     scheme: slate
     primary: black
