@@ -56,4 +56,4 @@ We welcome contributions to improve our documentation. Please see our [contribut
 
 ## Support
 
-If you need assistance beyond what's covered in the documentation, please contact our support team at support@chainfree.io.
+If you need assistance beyond what's covered in the documentation, please contact our support team at admin@chainfree.io.
