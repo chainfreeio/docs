@@ -18,13 +18,13 @@
   <line
     x1="100" y1="40" x2="100" y2="65"
     stroke="#000000"
-    stroke-width="16"
+    stroke-width="18"
     stroke-linecap="round"
   />
   <line
     x1="100" y1="30" x2="100" y2="170"
     stroke="#000000"
-    stroke-width="16"
+    stroke-width="18"
     stroke-linecap="round"
   />
 </svg>
